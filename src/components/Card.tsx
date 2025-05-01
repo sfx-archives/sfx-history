@@ -35,7 +35,7 @@ const Card = ({ index, date, chin, eng, photos }: CardProps): JSX.Element => {
           photos.map((photo, i) => (
             <img
               key={i}
-              src={`src/assets/${photo}`}
+              src={photo}
               alt={`Photo ${i + 1}`}
               className="w-auto max-h-[200px] m-1 rounded-sm shadow-md"
             />
@@ -46,7 +46,7 @@ const Card = ({ index, date, chin, eng, photos }: CardProps): JSX.Element => {
               {photos.map((photo, i) => (
                 <CarouselItem key={i} className="w-auto max-h-[200px] m-1">
                   <img
-                    src={`src/assets/${photo}`}
+                    src={photo}
                     alt={`Photo ${i + 1}`}
                     className="w-auto max-h-[200px] rounded-sm shadow-md"
                   />
