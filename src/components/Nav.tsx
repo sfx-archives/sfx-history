@@ -26,7 +26,7 @@ const Nav = ({ handleYearChange, isVisible, curYearIndex }: Props) => {
       >
         <div className="w-full flex justify-evenly">
           <span
-            className="hidden sm:flex items-center sm:text-md md:text-lg p-1 px-2 hover:text-white hover:bg-red-500/30 hover:rounded-md"
+            className="hidden sm:flex items-center sm:text-md md:text-lg p-1 px-2 md:hover:text-white md:hover:bg-red-500/30 md:hover:rounded-md"
             onClick={handlePrev}
           >
             <svg
@@ -44,13 +44,13 @@ const Nav = ({ handleYearChange, isVisible, curYearIndex }: Props) => {
               onClick={() => {
                 handleYearChange(index);
               }}
-              className="sm:text-md md:text-lg p-1 px-2 hover:text-white hover:bg-red-500/30 hover:rounded-md"
+              className="sm:text-md md:text-lg p-1 px-2 md:hover:text-white md:hover:bg-red-500/30 md:hover:rounded-md"
             >
               {`${year}0`}
             </span>
           ))}
           <span
-            className="hidden sm:flex items-center sm:text-md md:text-lg p-1 px-2 hover:text-white hover:bg-red-500/30 hover:rounded-md"
+            className="hidden sm:flex items-center sm:text-md md:text-lg p-1 px-2 md:hover:text-white md:hover:bg-red-500/30 md:hover:rounded-md"
             onClick={handleNext}
           >
             Next
