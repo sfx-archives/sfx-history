@@ -16,7 +16,7 @@ const Hero = ({ handleViewChange }: Props): JSX.Element => {
 
   return (
     <InView onChange={(inView: boolean) => handleViewChange({ inView })}>
-      <div className="flex items-center justify-center flex-col m-10 mb-0 pt-17 text-white ">
+      <div className="flex items-center justify-center flex-col m-10 mb-0 pt-10 text-white ">
         <a
           className="text-7xl font-tage text-center hover:text-shadow-lg hover:cursor-point"
           href="#"
