@@ -44,7 +44,11 @@ const Nav = ({ handleYearChange, isVisible, curYearIndex }: Props) => {
               onClick={() => {
                 handleYearChange(index);
               }}
-              className="sm:text-md md:text-lg p-1 px-2 md:hover:text-white md:hover:bg-red-500/30 md:hover:rounded-md"
+              className={`sm:text-md md:text-lg p-1 px-2 md:px-4 md:hover:text-white md:hover:bg-red-500/30 md:hover:rounded-md ${
+                years[curYearIndex] === year
+                  ? "bg-red-500/50 rounded-md"
+                  : "null"
+              }`}
             >
               {`${year}0`}
             </span>
