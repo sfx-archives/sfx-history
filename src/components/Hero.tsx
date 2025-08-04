@@ -51,7 +51,7 @@ const Hero = ({ handleViewChange }: Props): JSX.Element => {
           <img
             src="/90th_front_cover.jpeg"
             alt="90th cover"
-            className="w-16 h-20 hidden md:block"
+            className="w-16 h-20 hidden sm:block"
           />
         </div>
         <a
