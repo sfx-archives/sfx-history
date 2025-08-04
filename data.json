@@ -1,200 +1,1178 @@
 [
-    {
-      "Date": "10-1932",
-      "English": "Father Hugh Sharkey recalled from Chekiang, China, to found a mission for the Chinese people of Vancouver.",
-      "Chinese": "斯加波羅外方傳教會之 Hugh Sharkey 神父由我國浙江省奉召到溫哥華創辦一華人堂區。",
-      "photos":[]
-    },
-    {
-      "Date": "12-1933",
-      "English": "Mission officially opened with Mass offered by Archbishop William Mark Duke in the small house.",
-      "Chinese": "堂區正式開幕，由William Mark Duke 總主教舉行第一台彌撒聖祭。",
-      "photos":[]
-    },
-    {
-      "Date": "12-1933",
-      "English": "Formal opening of the Mission's Kindergarten. Rose Mary Wong was the first student to register.",
-      "Chinese": "堂區附設之幼稚園成立並開始招收學生，第一個報名之學生爲Rose Mary Wong。",
-      "photos":[]
-    },
-    {
-      "Date": "09-1934",
-      "English": "First group baptized. Thirteen in all.",
-      "Chinese": "第一次集體領冼，人數為十三人。",
-      "photos":[]
-    },
-    {
-      "Date": "09-1938",
-      "English": "Sister Hilda (Principal), Sister Mary Philip and Sister Francis Regis arrived to staff the St. Francis Xavier School. The initial enrollment for this unique school was 55.",
-      "Chinese": "Hilda (後被委為校長), Mary Philip 與 Francis 和 Riges修女抵達堂區協助小學事宜。首期學生為五十五人。",
-      "photos":["19380903.png"]
-    },
-    {
-      "Date": "08-1939",
-      "English": "The building on E. Georgia that was purchased in 1938 by Father Turner was moved to the lot behind the convent. After renovation, it became our Chapel.",
-      "Chinese": "於 1938 年購下位於 ( E. Georgia)  佐冶東街之物業，其上蓋被移往修女宿舍後之空地， 於裝修後， 成爲堂區之新聖堂。",
-      "photos":[]
-    },
-    {
-      "Date": "10-1963",
-      "English": "Father Chow established the parish Council. ",
-      "Chinese": "周神父成立本堂諮議會。",
-      "photos":[]
-    },
-    {
-      "Date": "12-1964",
-      "English": "The Christmas Midnight Mass was offered for the first time in Chinese.",
-      "Chinese": "首次以中文舉行子夜彌撒。",
-      "photos":[]
-    },
-    {
-      "Date": "01-1969",
-      "English": "Father Chow organized a club for elderly ladies - the Blessed Sacrament Club. One of their main work was to take care of the altar linens and the Church.",
-      "Chinese": "周神父為年長婦女教友粗織一名爲聖體會之善會，主要任務之一為負責祭台布與清理聖堂。",
-      "photos":["196901.png"]
-    },
-    {
-      "Date": "01-1975",
-      "English": "Departure Day for a dearly beloved Pastor, Father Chow. The 9:30am Mass was crowded to the doors and beyond. Fathers Aloysius Lou, the incoming Pastor and Father Chafe S.F.M., the previous Pastor were the Co-celebrants with the out-going Pastor at the\nHigh Mass, Father Chow's final Mass as Pastor of St. Francis. After the final blessing, Father A. Lou handed him the Keys of St. Francis Xavier Parish.\nImmediately following the morning Mass, Father Chow left for the airport. He was not alone - a great throng of parishioners followed him and remained at the airport until the plane carrying Father Chow, was out of sight.\nFather Aloysius Lou became our Pastor today - the second Chinese Pastor of St. Francis Xavier Parish.",
-      "Chinese": "周神父以本堂神父身份作最後一台彌撒，並由前任本堂神父Chafe 與即將接任之盧神父襄祭，到場教友甚為擠擁，最後周神父降褔盧神父並將聖堂鎖匙交與盧神父。彌撒後隨即前往機場，全體敎友尾隨而至，均面露依依不捨之情，待神父乘搭之飛機遠去方各自回家。盧湛明神父正式上任爲本堂神父。",
-      "photos":[]
-    },
-    {
-      "Date": "09-1979",
-      "English": "As a community, St. Francis Xavier Parish sponsored 30 vietnamese refugees to resettle in Canada.",
-      "Chinese": "聖堂以團體名義向政府担保卅名越南教友來加定居。",
-      "photos":[]
-    },
-    {
-      "Date": "05-1981",
-      "English": "Another first - A Walkathon.\nWhat began as a plan to raise funds for school supplies turned out to be a happy full-blown-parish affair. Parents, friends and their friends joined the school-children on the five-mile walk around Stanley Park.",
-      "Chinese": "為學校籌款而舉辦之百萬行第一次舉行。沿士丹尼公園海邊而行，路程約為五哩。",
-      "photos":[]
-    },
-    {
-      "Date": "07-2019",
-      "English": "Vietnamese immigrants of St. Francis Xavier Families celebrate 40th Anniversary with Mass and Dinner.",
-      "Chinese": "越南方濟之家40週年感恩彌撒及晚會。",
-      "photos":[]
+  {
+    "Date": "10-1932",
+    "English": "Father Hugh Sharkey recalled from Chekiang, China, to found a mission for the Chinese people of Vancouver.",
+    "Chinese": "斯加波羅外方傳教會之 Hugh Sharkey 神父由我國浙江省奉召到溫哥華創辦一華人堂區。",
+    "photos": []
   },
   {
-      "Date": "11-2019",
-      "English": "Parish hosts \"\"The Bible, Salvation History\"\" Presentation by Grace Lee.",
-      "Chinese": "聖方濟堂舉辦了「聖經：我們的救恩史」講座。",
-      "photos":[]
+    "Date": "12-1933",
+    "English": "Mission officially opened with Mass offered by Archbishop William Mark Duke in the small house.",
+    "Chinese": "堂區正式開幕，由William Mark Duke 總主教舉行第一台彌撒聖祭。",
+    "photos": []
   },
   {
-      "Date": "03-2020",
-      "English": "Archdiocese of Vancouver announced that all Masses and parish activities be suspended.",
-      "Chinese": "溫哥華教區指示，所有彌撒及堂區活動取消。",
-      "photos":[]
+    "Date": "12-1933",
+    "English": "Formal opening of the Mission's Kindergarten. Rose Mary Wong was the first student to register.",
+    "Chinese": "堂區附設之幼稚園成立並開始招收學生，第一個報名之學生爲Rose Mary Wong。",
+    "photos": []
   },
   {
-      "Date": "03-2020",
-      "English": "Parish started to have online virtual Mass.",
-      "Chinese": "堂區開始現場直播主日感恩祭。",
-      "photos":[]
+    "Date": "09-1934",
+    "English": "First group baptized. Thirteen in all.",
+    "Chinese": "第一次集體領冼，人數為十三人。",
+    "photos": []
   },
   {
-      "Date": "05-2020",
-      "English": "Resuming Public Mass with an upper limit of 50 attendances.",
-      "Chinese": "恢復公開彌撒，人數上限為50。",
-      "photos":[]
+    "Date": "09-1938",
+    "English": "Sister Hilda (Principal), Sister Mary Philip and Sister Francis Regis arrived to staff the St. Francis Xavier School. The initial enrollment for this unique school was 55.",
+    "Chinese": "Hilda (後被委為校長), Mary Philip 與 Francis 和 Riges修女抵達堂區協助小學事宜。首期學生為五十五人。",
+    "photos": ["19380903.png"]
   },
   {
-      "Date": "04-2021",
-      "English": "Easter Sunday Parish celebrated 5 Masses in open School playground.",
-      "Chinese": "復活節主日－堂區在學校操場舉行5 台戶外彌撒。",
-      "photos":[]
+    "Date": "08-1939",
+    "English": "The building on E. Georgia that was purchased in 1938 by Father Turner was moved to the lot behind the convent. After renovation, it became our Chapel.",
+    "Chinese": "於 1938 年購下位於 ( E. Georgia)  佐冶東街之物業，其上蓋被移往修女宿舍後之空地， 於裝修後， 成爲堂區之新聖堂。",
+    "photos": []
   },
   {
-      "Date": "07-2021",
-      "English": "Parish resumed all Masses.",
-      "Chinese": "堂區恢復所有彌撒。",
-      "photos":[]
+    "Date": "10-1963",
+    "English": "Father Chow established the parish Council. ",
+    "Chinese": "周神父成立本堂諮議會。",
+    "photos": []
   },
   {
-      "Date": "08-2021",
-      "English": "\"\"Welcome home to S.F.X. Let us celebrate Our Blessed Mother!\"\" event Archbishop Michael Miller, CSB celebrated mass to welcome parishioners returning to the parish. After mass, parishioners have a reunion with their friends and a greeting with the new immigrants in the \"\"Night Market\"\" event organized by parish sodalities.",
-      "Chinese": "「與聖母同在，聖方濟大家庭與你重聚」總主教 Michael Miller 舉行彌撒，歡迎教友重返教堂。彌撒結束後，教友與朋友重聚，並與新移民教友參加了堂區善會舉辦的「夜市」活動。",
-      "photos":[]
+    "Date": "12-1964",
+    "English": "The Christmas Midnight Mass was offered for the first time in Chinese.",
+    "Chinese": "首次以中文舉行子夜彌撒。",
+    "photos": []
   },
   {
-      "Date": "05-2022",
-      "English": "Fr. Aloysius Lou at the age of eighty-eight, passed away peacefully in the comfort of his home, on May 20, 2022.",
-      "Chinese": "盧湛明神父於五月二十日蒙主寵召，安詳返回主的懷抱，享年八十八歲。",
-      "photos":[]
+    "Date": "01-1969",
+    "English": "Father Chow organized a club for elderly ladies - the Blessed Sacrament Club. One of their main work was to take care of the altar linens and the Church.",
+    "Chinese": "周神父為年長婦女教友粗織一名爲聖體會之善會，主要任務之一為負責祭台布與清理聖堂。",
+    "photos": ["196901.png"]
   },
   {
-      "Date": "12-2022",
-      "English": "Archbishop Michael Miller, CSB blessed the 12 Apostles Stained Glass.",
-      "Chinese": "總主教 Michael Miller 祝聖十二宗徒彩繪玻璃。",
-      "photos":[]
+    "Date": "01-1975",
+    "English": "Departure Day for a dearly beloved Pastor, Father Chow. The 9:30am Mass was crowded to the doors and beyond. Fathers Aloysius Lou, the incoming Pastor and Father Chafe S.F.M., the previous Pastor were the Co-celebrants with the out-going Pastor at the\nHigh Mass, Father Chow's final Mass as Pastor of St. Francis. After the final blessing, Father A. Lou handed him the Keys of St. Francis Xavier Parish.\nImmediately following the morning Mass, Father Chow left for the airport. He was not alone - a great throng of parishioners followed him and remained at the airport until the plane carrying Father Chow, was out of sight.\nFather Aloysius Lou became our Pastor today - the second Chinese Pastor of St. Francis Xavier Parish.",
+    "Chinese": "周神父以本堂神父身份作最後一台彌撒，並由前任本堂神父Chafe 與即將接任之盧神父襄祭，到場教友甚為擠擁，最後周神父降褔盧神父並將聖堂鎖匙交與盧神父。彌撒後隨即前往機場，全體敎友尾隨而至，均面露依依不捨之情，待神父乘搭之飛機遠去方各自回家。盧湛明神父正式上任爲本堂神父。",
+    "photos": []
   },
   {
-      "Date": "02-2023",
-      "English": "Feast Day of Our Lady of Lourdes - Anointing of the Sick Mass & Senior Luncheon.",
-      "Chinese": "露德聖母瞻禮日病人傅油彌撒及長者聯歡午宴。",
-      "photos":[]
+    "Date": "09-1979",
+    "English": "As a community, St. Francis Xavier Parish sponsored 30 vietnamese refugees to resettle in Canada.",
+    "Chinese": "聖堂以團體名義向政府担保卅名越南教友來加定居。",
+    "photos": []
   },
   {
-      "Date": "03-2023",
-      "English": "Lenten Taizé Prayer with Children and their families.",
-      "Chinese": "四旬期泰澤祈禱，與孩子及家人一起以歌聲頌讚天主。",
-      "photos":[]
+    "Date": "05-1981",
+    "English": "Another first - A Walkathon.\nWhat began as a plan to raise funds for school supplies turned out to be a happy full-blown-parish affair. Parents, friends and their friends joined the school-children on the five-mile walk around Stanley Park.",
+    "Chinese": "為學校籌款而舉辦之百萬行第一次舉行。沿士丹尼公園海邊而行，路程約為五哩。",
+    "photos": []
   },
   {
-      "Date": "05-2023",
-      "English": "Archbishop Michael Miller, CSB celebrated Marriage Anniversary Mass Archdiocese event.",
-      "Chinese": "總主教 Michael Miller 舉行結婚週年紀\n念彌撒的教區活動。",
-      "photos":[]
+    "Date": "01-1983",
+    "English": "The Parish's Golden Jubilee - a series of festive activities was planned to celebrate the 50th anniversary of the founding of our parish. An Anniversary Commemorative Book was published. ",
+    "Chinese": "為慶祝本堂50週年金慶，堂區出版金慶紀念冊和安排各種慶典。",
+    "photos": []
   },
   {
-      "Date": "06-2023",
-      "English": "Cursillo in Christianity.",
-      "Chinese": "基督活力運動。",
-      "photos":[]
+    "Date": "07-1983",
+    "English": "Arrival of the Sisters of The Immaculate Heart of Mary from Hong Kong to serve as pastoral assistants - Sr. Veronica Tang, SIHM and Sr. Agatha Poon, SIHM. ",
+    "Chinese": "香港聖母潔心會鄧偉英修女及潘雅惠修女加入本堂服務。",
+    "photos": []
   },
   {
-      "Date": "06-2023",
-      "English": "Congregation of St. John the Baptist celebrated the 95th Anniversary and Fr. Joseph Ly and Fr. Dominic Hoang celebrated the 20th Anniversary of ordination to the Priesthood. Thanksgiving Mass & dinner.",
-      "Chinese": "耀漢小兄弟會慶祝九十五週年暨李志雄神父及黃公宇神父晉鐸二十週年感恩聖祭及聚餐。",
-      "photos":[]
+    "Date": "08-1983",
+    "English": "Fr. Aloysius Yip arrived from Hong Kong with Archbishop Tang of Guangzhou Archdiocese and stayed as our guest. Fr. Yip suffered severe religious persecution in China and was released from prison for health reason. Archbishop Car­ney sponsored his immigration to Canada. ",
+    "Chinese": "葉湘神父陪同廣州教區鄧以明總主教由香港蒞臨我堂區作客。葉神父幾經迫害以健康的理由從監獄釋放。總主教Carney擔保他移民加國。",
+    "photos": []
   },
   {
-      "Date": "07-2023",
-      "English": "Fr. Joseph Ly and Sr. Teresa Gou led 12 youths to World Youth Day in Portugal.",
-      "Chinese": "李志雄神父和敬雅潔修女率領12名青年參加葡萄牙舉行的世界青年節。",
-      "photos":[]
+    "Date": "01-1984",
+    "English": "Founding of St. Francis Xavier (Chinese) School by Mrs. Catherine Kwong. Sr. Magdalene Leung, MIC was appointed Principal. ",
+    "Chinese": "鄺燊愛女士開辦聖方濟週末中文學校。梁修女被任命為校長。",
+    "photos": []
   },
   {
-      "Date": "09-2023",
-      "English": "Priests from the Little Brothers of St. John the Baptist Congregation, serving in Taiwan, Vietnam, and the United States, visited St. Francis Xavier Parish.",
-      "Chinese": "在台灣，越南和美國服務的7位耀漢小兄弟會神父訪問聖方濟堂。",
-      "photos":[]
+    "Date": "07-1984",
+    "English": "Sr. Mary Moran, GSIC replaced Sr. Thomasena, GSIC as SFX School Principal.",
+    "Chinese": "無原罪聖母會修女 Sr. Mary Mo­ran 接替 Sr. Thomasena 任聖方濟學校校長。",
+    "photos": []
   },
   {
-      "Date": "09-2023",
-      "English": "Sr. Maria Ko Bible Talks.",
-      "Chinese": "高夏芳修女實體聖經講座。",
-      "photos":[]
+    "Date": "09-1984",
+    "English": "Apostolic Visit of Pope John Paul II to Canada - he visited Vancouver and other major Canadian cities in September. Many of our parishioners were among the over 200,000 people who converged at Abbotsford Airport to attend the open-air Papal Mass which was dedicated to the Sacred Heart of Jesus.",
+    "Chinese": "教宗若望保祿二世訪問溫哥華和其他幾個主要城市。在9月18日，我堂教友連同二十多萬人聚集在 Ab­botsford機場參加教宗主祭的彌撒。",
+    "photos": []
   },
   {
-      "Date": "10-2023",
-      "English": "Rosary Musical Prayer - All choirs from St. Francis Xavier Parish hosted a special joint musical prayer session for all parishioners.",
-      "Chinese": "玫瑰月祈禱音樂會－堂區所有聖歌詠團聯合舉行一個別開生面的祈禱音樂會。",
-      "photos":[]
+    "Date": "01-1987",
+    "English": "Pope John Paul II proclaimed a Marian Year on January 1, and Catholic dioceses around the world had been told to develop programs for it. The observance would begin June 7, 1987 on the Feast of the Pentecost, and end on August 15, 1988, the feast of the Assumption of Mary.",
+    "Chinese": "1月1日教宗若望保祿二世宣佈1987年為聖母年， 要求全球各教區制定敬禮慶典。聖年於1987年6月7日聖神降臨節開始，至1988年8月15日聖母升天節結束。",
+    "photos": []
   },
   {
-      "Date": "11-2023",
-      "English": "Extended an honourable invitation to Archbishop Savio Tai Fai Hon, SDB to join us in the St. Francis Xavier Parish's 90th Anniversary celebration.",
-      "Chinese": "榮幸誠邀到韓大輝總主教蒞臨與我們一起慶祝聖方濟堂建堂九十週年。",
-      "photos":[]
+    "Date": "06-1987",
+    "English": "Ms. Therese Leung was appointed Principal of SFX School to replace Sr. Mary Moran, GSIC who returned to the Motherhouse of her order in Ontario.",
+    "Chinese": "梁兆珩女土被委任為聖方濟小學校長. Sister Mary Moran榮休並返回安省無原罪聖母會總會院。",
+    "photos": []
   },
   {
-      "Date": "12-2023",
-      "English": "Extended an honourable invitation to Archbishop Michael Miller and Archbishop Savio Tai Fai Hon to celebrate the 90th Anniversary of St. Francis Xavier Parish and the 15th Anniversary of Dedication of Our New Church Celebration Thanksgiving Mass & Gala Dinner.",
-      "Chinese": "榮幸誠邀到總主教 Michael Miller 及韓大輝總主教慶祝聖方濟堂成立九十週年暨祝聖新聖堂十五週年主保瞻禮感恩彌撒及晚宴。",
-      "photos":[]
+    "Date": "05-1988",
+    "English": "For the celebration of the Marian Year, Fr. Lou and Fr. Freddie Wong led a pilgrimage with about 80 parishioners to Fatima, Lourdes and Rome.",
+    "Chinese": "為慶祝聖母年，盧湛明神父及黃金賜神父組團往花地瑪，露德與羅馬等地朝聖，約有八十名教友參加。",
+    "photos": []
+  },
+  {
+    "Date": "08-1988",
+    "English": "Fr. Yip was transferred to Holy Rosary Cathedral as Assistant Pastor.",
+    "Chinese": "葉湘神父被派往主教座堂出任助理司鐸。",
+    "photos": []
+  },
+  {
+    "Date": "09-1990",
+    "English": "Archbishop James Carney of Vancouver passed away at age 72. He was the sixth Archbishop of Vancouver; appointed on January 8, 1969, installed on February 11, 1969. He was the Auxiliary Bishop of Vancouver since January 7, 1966.",
+    "Chinese": "溫哥華總主教James Carney安息主懷，享年72歲。他是溫哥華總教區第六任總主教，1969年1月8日接受任命，同年2月11日就職。此前他是溫哥華總教區的輔理教。（自1966年1月7 日始）",
+    "photos": []
+  },
+  {
+    "Date": "09-1990",
+    "English": "Fr. Freddie Wong passed away after a long battle with cancer. (Fr. Wong was born on November 21, 1930 and ordained on August 1, 1965). Funeral Mass was celebrated on September 25. He was the first fruit of the parish nurtured priestly vocation - a graduate of SFX School and member of CCYO.",
+    "Chinese": "助理司鐸黃金賜神父安息主懷。（黃神父於1930年11月21日出生，於1965年8月1日晉鐸）。黃神父是第一位由堂區培養出來的聖召。他是聖方濟學校的畢業生和青年會會員。",
+    "photos": []
+  },
+  {
+    "Date": "05-1991",
+    "English": "Archbishop Adam Exner, OMI was appointed the seventh Archbishop of Vancouver. He was the Archbishop of Winnipeg since June 23, 1982. Archbishop Exner holds a Doctorate degree in Theology and can speak six languages. Installation Mass was celebrated on August 15.",
+    "Chinese": "前溫尼柏總主教Adam Exner受委任為溫哥華總教區的總主教。他是神學博士，能說六種語言。",
+    "photos": []
+  },
+  {
+    "Date": "1993",
+    "English": "The Parish's Diamond Jubilee - the parish celebrated its 60th anniversary with the publication of an Anniversary Commemorative Book and a pilgrimage to Malacca,\r\nMalaysia and Shangchuan Island in China where our patron saint had lived and evangelized.",
+    "Chinese": "慶祝堂區六十週年紀念一堂區組團往馬來西亞馬六甲及中國上川島聖方濟沙勿略墓園朝聖及出版鑽禧紀念冊。",
+    "photos": []
+  },
+  {
+    "Date": "05-1993",
+    "English": "Following the instruction of the Archbishop, the Parish Council was subdivided into Pastoral Council and Finance Council.",
+    "Chinese": "堂區諮議會遵照總主教指示分為牧民組及財務組。",
+    "photos": []
+  },
+  {
+    "Date": "08-1993",
+    "English": "World Youth Day 1993 - a SFX pilgrimage group journeyed to Denver to participate in the 8th WYD. The theme was \"I came that they might have life, and have it to the full\" (Jn 10:10).",
+    "Chinese": "1993年世青節－聖方濟堂組朝聖團前往美團參加第八屆世青節。本屆世青節主題是﹕\"我來是為叫他們獲得生命，且獲得更豐富的生命。＂ (若10:10)",
+    "photos": []
+  },
+  {
+    "Date": "10-1993",
+    "English": "Scarboro Missions celebrated its 75th Anniversary Mass at our church.",
+    "Chinese": "Scarboro傳教會慶祝75 週年，假本堂舉行彌撒。",
+    "photos": []
+  },
+  {
+    "Date": "12-1993",
+    "English": "Parishioner Deacon Paul Chu was ordained to the priesthood by Archbishop Adam Exner, OMI in Holy Rosary Cathedral.",
+    "Chinese": "本堂教友朱達章執事晉陞司鐸。",
+    "photos": []
+  },
+  {
+    "Date": "1994",
+    "English": "To celebrate the \"International Year of the Family\" declared by the UN, the parish celebrated Wedding Anniversary Masses and wedding vow renewal ceremonies for parishioners throughout the year.",
+    "Chinese": "響應推動「國際家庭年」，整年為各家庭夫婦舉行結婚週年彌撒。",
+    "photos": []
+  },
+  {
+    "Date": "07-1994",
+    "English": "Monsignor Peter Chow passed away after a long illness. Msgr. was the first Chinese pastor of the parish. Msgr. was appointed by Cardinal Biundi of the Congregation for the Evangelization of the Peoples to serve the Chinese Catholics in Vancouver immediately after he received his Doctorate Degree in Canon Law in 1953. His radio broadcasts and newspaper columns were published in the book \"The Philosophy of Life\". (Msgr. Chow was born in Hong Kong on Nov 18, 1918 and ordained in Macau on\r\nJuly 26, 1944. He served as Assistant Pastor from 1953 to 1961, Pastor from 1961 to 1975).",
+    "Chinese": "周若漁蒙席安息主懷。周蒙席是本堂區第一位華人主任司鐸。他在任時的電台廣播和報刊專欄出版為「感悟隨筆」。（周蒙席在1918 年11月18 日生於香港，在1944年7月26日於澳門晉鐸，並在1961 年至1975 年出任本堂區主任司鐸）。",
+    "photos": []
+  },
+  {
+    "Date": "08-1994",
+    "English": "Archdiocesan Youth Ministry Office (YMO) was established with Fr. Mark Hagemoen serving as Director. Mr. Tim To, President of CCYO (Chinese Catholic Youth Organization) took on the responsibiliry as parish Youth Ministry Coordinator.",
+    "Chinese": "總教區成立少年牧民部，Mark Hagemoen神父出任總監。堂區青年會會長Tim To先生出任堂區少年牧民統籌主任。",
+    "photos": []
+  },
+  {
+    "Date": "09-1994",
+    "English": "Fr. Lou was invited to go to Honolulu to start a Chinese Catholic Center at Mother of Good Counsel Parish. Fr. Dominic Ip, OP replaced Fr. Lou as Pastor. Fr. Jacques Chen, SJ was appointed Assistant Pastor.",
+    "Chinese": "盧湛明神父被邀往夏威夷組織華人教務中心。道明會葉耀明神父接任主任司鐸職務。陳恆志神父為助理司鐸。",
+    "photos": []
+  },
+  {
+    "Date": "10-1994",
+    "English": "Family Rosary Group was formed to recite the Rosary at different parishioners' homes on Saturdays.",
+    "Chinese": "成立家庭玫瑰經小組，逢週末到各 家庭恭唸玫瑰經。",
+    "photos": []
+  },
+  {
+    "Date": "11-1994",
+    "English": "Pope John Paul II declared the year 2000—the Great Jubilee 2000, the Holy Year to mark the 2000th anniversary of the birth of Jesus Christ. He called for a three year preparation, to contemplate on the Mystery of the Trinity. Reflection would therefore focus in 1997 on Christ; in 1998 on the Holy Spirit and in 1999 on God the Father, from whom the Lord was sent and to whom He has returned.",
+    "Chinese": "教宗若望保祿二世宣佈2000年為千禧年，慶祝耶穌基督誕生2000年。他號召我們用三年的時間準備，默觀聖三的奧跡－1997年專門默觀基督奧跡；1998年專門默觀聖神的奧跡；1999年默觀聖父的奧跡。",
+    "photos": []
+  },
+  {
+    "Date": "12-1994",
+    "English": "Fr. Lou led a pilgrimage to Jerusalem.",
+    "Chinese": "盧湛明神父帶領教友們往耶路撒冷朝聖。",
+    "photos": []
+  },
+  {
+    "Date": "01-1995",
+    "English": "Liturgy Committee was established to facilitate smoother coordination of responsibilities among parish groups with liturgical roles—lectors, altar servers, choirs and ushers, etc. The parish Sacristan, Mr. Joseph Thai, became the Coordinator.",
+    "Chinese": "成立禮儀委員會，協調各善會在禮儀中的合作。蔡榮佳先生是負責人。",
+    "photos": []
+  },
+  {
+    "Date": "06-1995",
+    "English": "Celebration of Fr. Ip's 10th anniversary of priestly ordination.",
+    "Chinese": "堂區慶祝葉耀明神父晉鐸十週年紀念。",
+    "photos": []
+  },
+  {
+    "Date": "09-1995",
+    "English": " 'Kick off' of ImPACT (I'm a Positively Active Catholic Teen), a new SFX youth ministry program for English speaking teens ages 13-17.",
+    "Chinese": "成立少年活力組。",
+    "photos": []
+  },
+  {
+    "Date": "11-1995",
+    "English": "Seventeen girls joined the newly formed Altar Girls Club.",
+    "Chinese": "成立女輔祭組，有十七位女輔祭加入服務。",
+    "photos": []
+  },
+  {
+    "Date": "02-1996",
+    "English": "Liturgy of the Word for Children (Children's Liturgy) started to be celebrated at 9:30am and 11:15am Mass on Sundays.",
+    "Chinese": "開始每主日中的兒童禮儀。",
+    "photos": []
+  },
+  {
+    "Date": "04-1996",
+    "English": "Family Photo Day—C$6,000 was raised for Catholic dioceses in China to publish large print Sunday missals for elderly priests.",
+    "Chinese": "舉辦「家庭樂」攝影日，籌得六千加元善款，捐贈予中國天主教教會，以印制「大字體」之主日彌撒經文給年老神父使用。",
+    "photos": []
+  },
+  {
+    "Date": "04-1996",
+    "English": "Investiture of Vancouver East 99th Scout in the parish.",
+    "Chinese": "成立公教童軍99旅。",
+    "photos": []
+  },
+  {
+    "Date": "08-1996",
+    "English": "Mr. Alan Chiu replaced Mr. Tim To as parish Youth Ministry Coordinator.",
+    "Chinese": "Alan Chiu先生接替Tim To先生任堂區少年牧民統籌主任。",
+    "photos": []
+  },
+  {
+    "Date": "09-1996",
+    "English": "Fr. Jacques Chen, SJ was transferred to St. Paul's Hospital to serve as Chaplain.",
+    "Chinese": "陳恆志神父被派往聖保祿醫院服務。",
+    "photos": []
+  },
+  {
+    "Date": "09-1996",
+    "English": "Fr. Paul Chu replaced Fr. Chen as Assistant Pastor. He also served as Chaplain of Mt. St. Joseph Hospital. Farewell party for Sr. Mary Margaret, GSIC who returned to the Motherhouse of her order in Ontario.",
+    "Chinese": "朱達章神父獲委任為本堂助理司鐸及聖若瑟醫院駐院司鐸。同日歡送Sister Mary Margaret返回安省無原罪聖母會總會院。",
+    "photos": []
+  },
+  {
+    "Date": "11-1996",
+    "English": "Fr. Aloysius Yip passed away. (Fr. Yip was born on June 25, 1919 in Kwangtung Province and ordained on July 25, 1943 in Canton).",
+    "Chinese": "葉湘神父安息主懷。（葉神父在1919年6月25日生於廣東省。1943年7月25日在廣州晉鐸）。",
+    "photos": []
+  },
+  {
+    "Date": "1997",
+    "English": "Year of the Son—1st year of the 3-year preparation for the celebration of Great Jubilee 2000 of the Catholic Church.",
+    "Chinese": "聖子年—天主教會慶祝2000大禧年三年準備期的第—年。",
+    "photos": []
+  },
+  {
+    "Date": "03-1997",
+    "English": "Franciscan priest, Fr. Chi-Shing Ha was invited to lead a Lenten retreat.",
+    "Chinese": "方濟會會士夏志誠神父為本堂教友主持退省聚會。",
+    "photos": []
+  },
+  {
+    "Date": "05-1997",
+    "English": "Synod - Archbishop Adam Exner released his pastoral letter \"Toward a New Springtime\", setting the stage for the convocation of the Fourth Archdiocesan Synod.",
+    "Chinese": "總主教 Adam Exner發佈他在任的牧函「走向新的春天」，邁開總教區第四屆會議的第一步。",
+    "photos": []
+  },
+  {
+    "Date": "05-1997",
+    "English": "Fr. M. C. Chu was invited to lead the first \"Marriage Encounter Camp\" in Cantonese and Mandarin.",
+    "Chinese": "邀請朱蒙泉神父主持首屆以粵語及普通話舉行的夫婦懇談週末營。",
+    "photos": []
+  },
+  {
+    "Date": "08-1997",
+    "English": "Fr. Paul Chu was transferred to Canadian Martyrs Parish as Pastor.",
+    "Chinese": "朱達章神父被派往加拿大殉道聖人堂為主任司鐸。",
+    "photos": []
+  },
+  {
+    "Date": "09-1997",
+    "English": "Fr. Louis Tchang arrived from Panama to replace Fr. Ip, OP as Pastor.",
+    "Chinese": "張必剛神父由巴拿馬蒞臨接替任滿的葉耀明神父出任本堂主任司鐸。",
+    "photos": []
+  },
+  {
+    "Date": "1998",
+    "English": "Year of the Spirit—2nd year of the 3-year preparation for the celebration of the Great Jubilee 2000 of the Catholic Church.",
+    "Chinese": "聖神年—天主教2000年大禧年三年準備期的第二年。",
+    "photos": []
+  },
+  {
+    "Date": "01-1998",
+    "English": "Sc. Francis Xavier Chinese School was renamed SFX Msgr. Peter Chow Memorial Chinese School.",
+    "Chinese": "聖方濟週末中文學校易名為聖方濟周若漁紀念中文學校。",
+    "photos": []
+  },
+  {
+    "Date": "01-1998",
+    "English": "Deacon Richard Au was ordained to the priesthood. He celebrated his first Massat SFX church on the following day.",
+    "Chinese": "歐健明執事晉陞司鐸，並於翌日1月18日在本堂舉行首祭。",
+    "photos": []
+  },
+  {
+    "Date": "02-1998",
+    "English": "Fr. Tchang led a group of parishioners to Vatican to attend the ceremony where Bishop Paul Shan of Taipei was elevated to the rank of Cardinal. Cardinal Shan was the fifth Chinese bishop created Cardinal.",
+    "Chinese": "張必剛神父組團前往梵諦岡，慶祝單國璽主教受封為樞機主教。單國璽樞機主教是全球華人第五位被冊封為樞機的主教。",
+    "photos": []
+  },
+  {
+    "Date": "05-1998",
+    "English": "\"Pentecost Alive\" at BC Place—the biggest archdiocesan celebration in preparation for the Great Jubilee 2000. All confirmation candidates of the Archdiocese were gathered together for the \"Pentecost Alive\" celebration and Archbishop Exner conferred the Sacrament of Confirmation. 37 SFX parishioners were confirmed on that day.",
+    "Chinese": "「活的聖神」在卑詩體育館舉行–是溫哥華總教區準備2000大禧年最大的慶祝活動。溫哥華總教區所有的堅振候選人聚在一起領受堅振聖事。本堂區有三十七位教友領受堅振聖事。",
+    "photos": []
+  },
+  {
+    "Date": "10-1998",
+    "English": "Synod - Archbishop Exner issued a decree and the Fourth Archdiocesan Synod was officially underway. He celebrated the Convocation Mass and asked the Holy Spirit to guide the Synod \"to discern the mission of our local Church in communion with the Church Universal.\"",
+    "Chinese": "總主教為第四屆總教區會議開幕彌撒主祭。",
+    "photos": []
+  },
+  {
+    "Date": "1999",
+    "English": "Year of the Father—3rd year of the 3-year preparation for the celebration of the Great Jubilee 2000.",
+    "Chinese": "聖父年—2000 大禧年準備期的第三年。",
+    "photos": []
+  },
+  {
+    "Date": "04-1999",
+    "English": "Parish hosted the 21st Conference of North American Chinese Catholic Clergy and Religious. The theme was \"Year of the Father and 3000 years of Evangelization to the Chinese\".",
+    "Chinese": "堂區接辦北美華人天主教聖職及修會成員第二十一屆共融營。主題是：聖父年與三千年華人福傳。",
+    "photos": []
+  },
+  {
+    "Date": "05-1999",
+    "English": "Cardinal Paul Shan was invited to come to visit our parish. He celebrated mass and enjoyed a dinner with the parishioners.",
+    "Chinese": "單國璽樞機主教應邀探訪本堂區教友，舉行彌撒及共晉晚餐。",
+    "photos": []
+  },
+  {
+    "Date": "06-1999",
+    "English": "Building Project - The Archbishop approved the purchase of a piece of land previously owned by Fred Rollins and Co. on Great Northern Way for $6M to build our new school and church.",
+    "Chinese": "建築工程－總主教批準購入位於大北道四百號之地段以與建新校舍和聖堂。耗資六百萬。",
+    "photos": []
+  },
+  {
+    "Date": "07-1999",
+    "English": "Building Project—Fr. Louis Tchang and some parishioners attended a public hearing at the Vancouver City Hall on our application to build a school and church on the land we had purchased.",
+    "Chinese": "張必剛神父及堂區教友出席溫哥華市政廳舉行申請建校建堂計劃的公聽會。",
+    "photos": []
+  },
+  {
+    "Date": "07-1999",
+    "English": "Archbishop Exner recalled Fr. Aloysius Lou from Hawaii and appointed him Assistant Pastor. (Fr. Lou was Parish Pastor from 1975 to 1994.)",
+    "Chinese": "總主教任命由夏威夷回來的盧湛明神父為本堂助理司鐸。盧神父在1975年至1994年為本堂主任司鐸。",
+    "photos": []
+  },
+  {
+    "Date": "09-1999",
+    "English": "Mr. Jeremy Wong replaced Mr. Alan Chiu as Parish Youth Ministry Coordinator.",
+    "Chinese": "Jeremy Wong先生接替Alan Chiu先生任堂區少年牧民統籌主任。",
+    "photos": []
+  },
+  {
+    "Date": "12-1999",
+    "English": "Archbishop Exner officiated at the Ground Breaking Ceremony of the new SFX School building on 428 Great Northern Way.",
+    "Chinese": "總主教蒞臨主持新校舍動土儀式。",
+    "photos": []
+  },
+  {
+    "Date": "12-1999",
+    "English": "Pope John Paul II opened the Holy Door at St. Peter's Basilica, thus officially opened the celebration of the Great Jubilee 2000 for the Universal Church. In union with the Holy Father, Archbishop Exner opened the Holy Door of the Archdiocese at Holy Rosary Cathedral.",
+    "Chinese": "教宗若望保祿二世打開聖伯多祿大殿的聖門，正式開始普世教會2000年大禧年的慶典。在與教宗的共融內，總主教同時打開溫哥華主教座堂的聖門。",
+    "photos": []
+  },
+  {
+    "Date": "2000",
+    "English": "The Great Jubilee 2000 of the Catholic Church - the Holy Year to mark the 2000th anniversary of the birth of Jesus Christ.",
+    "Chinese": "天主教2000年大禧年－紀念耶穌基督誕生之聖年。",
+    "photos": []
+  },
+  {
+    "Date": "01-2000",
+    "English": "Building Project - DSG Construction was awarded the contract to build SFX School for $8M.",
+    "Chinese": "建築工程—DSG建築公司成功投得新校舍之建築權。耗資八百萬。",
+    "photos": []
+  },
+  {
+    "Date": "02-2000",
+    "English": "SFX parishioners donated $20,000 to help the victims of the September 21 earthquake in the Diocese of Taichung in Taiwan.",
+    "Chinese": "堂區教友為台灣921地震籌款，籌得二萬加元救災款項，捐贈與台中教區。",
+    "photos": []
+  },
+  {
+    "Date": "07-2000",
+    "English": "Parish held the first Family Camp with the theme: \"Two Generations, One Heart\". Parents enjoyed a weekend camp with their children.",
+    "Chinese": "首屆堂區教友家庭營，主題：「兩代一心」。邀請教友陪同子女一起參加露營。",
+    "photos": []
+  },
+  {
+    "Date": "12-2000",
+    "English": "A letter came from Her Majesty, Queen Elizabeth II commending SFX School.",
+    "Chinese": "英女皇來函嘉許聖方濟學校。",
+    "photos": []
+  },
+  {
+    "Date": "07-2001",
+    "English": "Coadjutor Bishop Joseph Zen of Hong Kong paid a visit to the parish and officiated at a communal celebration of the Sacrament of the Anointing of the Sick.",
+    "Chinese": "香港教區陳日君助理主教探訪本堂教友。",
+    "photos": []
+  },
+  {
+    "Date": "08-2001",
+    "English": "Building Project—Construction of the new SFX School building was completed. Our fully air-conditioned school features spacious classrooms and a very large gymnasium.",
+    "Chinese": "設備完善的聖方濟新校舍落成。",
+    "photos": []
+  },
+  {
+    "Date": "08-2001",
+    "English": "Big move of the school took place. About 200 parishioners volunteered to participate in this huge undertaking. Mr. Buck Wong came with his big truck.",
+    "Chinese": "學校大搬家。邀請全體教友參與此「劃時代」的搬遷大行動。",
+    "photos": []
+  },
+  {
+    "Date": "09-2001",
+    "English": "Holy relic of St. Therese of Liseux arrived the Archdiocese of Vancouver. Fr. Tchang led a group of parishioners to attend Mass at Corpus Christi Church and venerate the\r\nholy relic.",
+    "Chinese": "聖女小德蘭聖髑蒞臨溫哥華，張神父率領教友們往基督聖體堂參與彌撒及瞻仰聖髑。",
+    "photos": []
+  },
+  {
+    "Date": "09-2001",
+    "English": "Synod—Parishioners elected Mr. Francis Tse as our lay representative in the upcoming Fourth Archdiocesan Synod. He would be one of 78 elected representatives from parishes. Mr. Francis Wong served as alternate.",
+    "Chinese": "教區會議—堂區選出謝啓彬先生代表平信徒參加第四屆總教區會議。他是七十八位從各堂區選舉出來的代表之一。Francis Wong先生是後補代表。",
+    "photos": []
+  },
+  {
+    "Date": "10-2001",
+    "English": "Thanksgiving Mass to celebrate the retirement of Fr. Tchang. Parishioners gathered for a scrumptious potluck dinner after Mass to thank Fr. Tchang for shepherding the\r\nparish with charitable and wise words and deeds. Fr. Aloysius Lou succeeded as Pastor.",
+    "Chinese": "張必剛神父榮休謝主彌撒。彌撒後有potluck聚餐。教友們感佩張神父在悠長的歲月中，以言以行堅定持續地牧養教友，印證愛主愛人，愈顯主榮的精神。盧湛明神父接任本堂主任司鐸之職。",
+    "photos": []
+  },
+  {
+    "Date": "11-2001",
+    "English": "11:00am Mass began to be celebrated at the parish gym, while the 8:00am and 9:30am Masses were celebrated at the old church building.",
+    "Chinese": "英文彌撒開始在堂區禮堂舉行，早上八時和九時三十分的彌撒仍在舊聖堂舉行。",
+    "photos": []
+  },
+  {
+    "Date": "12-2001",
+    "English": "Archbishop Exner blessed the new school building and celebrated Mass. The celebration closed with dinner at Floata Restaurant in Chinatown.",
+    "Chinese": "聖方濟學校慶祝新校舍開幕。總主教Adam Exner蒞臨主持彌撒，晚上假華埠富大酒樓聚餐。",
+    "photos": []
+  },
+  {
+    "Date": "12-2001",
+    "English": "The annual Boxing Day Dinner was held in the parish gym for the first time. Over 600 parishioners gathered to enjoy a traditional Christmas family dinner.",
+    "Chinese": "一年一度的Boxing Day晚餐第一次在學校體育館舉行。超過六百名教友歡聚一堂享用傳統的聖誕節家庭晚餐。",
+    "photos": []
+  },
+  {
+    "Date": "01-2002",
+    "English": "Synod—Archbishop officiated at the Opening Session of the Synod at Holy Rosary Cathedral; Fr. Lou and Mr. Francis Tse were among the 300 Synod members.",
+    "Chinese": "教區會議—總主教在主教座堂主持第四屆總教區會議開幕大會；盧神父和謝先生是三百名代表中的成員。",
+    "photos": []
+  },
+  {
+    "Date": "02-2002",
+    "English": "SFX Grade 7 students participated in the Canadian National Math League Contest. They won the Provincial First Place and came in Ninth nationwide.",
+    "Chinese": "七年級學生參加加拿大數學比賽名列全省第一名全國第九名。",
+    "photos": []
+  },
+  {
+    "Date": "02-2002",
+    "English": "This was the first year of the annual Parish Lenten Retreat for all parishioners, conducted in Cantonese, Mandarin and English. About 200 parishioners participated.",
+    "Chinese": "堂區首次舉辦以粵語、普通話及英語分別進行的四旬期堂區退省。約有二百位教友參加。",
+    "photos": []
+  },
+  {
+    "Date": "06-2002",
+    "English": "Sr. Magdalene Leung, MIC retired. Mr. Benedict Hoang replaced her as Principal of the Msgr. Peter Chow Memorial (Sat) Chinese School.",
+    "Chinese": "梁修女榮休。黃其耀先生接任為聖方濟周若漁紀念中文學校校長。",
+    "photos": []
+  },
+  {
+    "Date": "07-2002",
+    "English": "Auxiliary Bishop Lin of GaoShung, Taiwan led a WYD02 pilgrimage group from his diocese to visit our parish on their way to Toronto. He celebrated Mass and enjoyed a potluck dinner with parishioners.",
+    "Chinese": "台灣高雄林吉男輔理主教帶團參加多倫多世界青年節，順道探訪本堂教友，主持彌撒及共晉晚餐。",
+    "photos": []
+  },
+  {
+    "Date": "07-2002",
+    "English": "World Youth Day 2002 in Toronto: The parish hosted the 'Days in the Diocese' for about 20 pilgrims from Asia. SFX Youth Ministry led a pilgrimage group to the 17th WYD.\r\nThe theme was \"You are the salt of the earth ... You are the light of the world\". (Mt 5:13-14)",
+    "Chinese": "2002年世青節—堂區招待來自亞洲二十多位朝聖者。堂區帶領朝聖團前往多倫多參加第十七屆世青節。本屆世青節的主題是：「你們是地上的鹽…世界的光。」（瑪 5:13-14)",
+    "photos": []
+  },
+  {
+    "Date": "09-2002",
+    "English": "Building Fund—A New Church Building Fund Raising Committee was formed to propose and manage fundraising events. Members were drawn from the Parish Councils. The proposed church would seat 800 at a cost of about $7.5M to build. An underground parkade with 175 parking stalls would cost $3M to build.",
+    "Chinese": "建堂基金一建堂基金委員會成立，以策劃和管理基金籌集事務。成員由堂區議會中選出。聖堂建築費用預計需要七百五十萬元。地下停車場的建築費預計需要三百萬元。",
+    "photos": []
+  },
+  {
+    "Date": "10-2002",
+    "English": "Synod—Our parish hosted the upcoming 10 Plenary Assemblies of The Synod (Oct 2002 to May 2003) - Fr. Lou and Mr. Francis Tse represented us.",
+    "Chinese": "教區會議—2002年至2003年的十次全體大會在本堂舉行，盧神父和謝先生代表堂區出席會議。",
+    "photos": []
+  },
+  {
+    "Date": "10-2002",
+    "English": "Pope John Paul II declared Oct 2002 - Oct 2003 \"Year of the Rosary\" and he added five new mysteries (Luminous Mysteries) which recall significant events during Jesus' public ministry to the rosary. The parish gave out over a thousand new rosary pamphlets (English and Chinese) to the parishioners.",
+    "Chinese": "教宗若望保祿二世宣佈2002年10月至2003年10月為\"玫瑰經年\"。新增五端奧跡一光明五端。堂區派發超過一千份以英文、中文印刷的玫瑰經小冊子。",
+    "photos": []
+  },
+  {
+    "Date": "10-2002",
+    "English": "Parishioners took part in the Parish Census Day.",
+    "Chinese": "堂區教友家庭戶口普查日。",
+    "photos": []
+  },
+  {
+    "Date": "12-2002",
+    "English": "Blessing and opening of the new Parish Life Center with Mr, Benedict Hoang serving as Manager. The PLC offers different recreational and fitness programs and a place for\r\nparishioners to gather and relax.",
+    "Chinese": "祝福並開放堂區活動中心，黃其耀先生任主管。活動中心提供各種不同類型的康樂活動，並成為堂區教友聚會的場所。",
+    "photos": []
+  },
+  {
+    "Date": "2003",
+    "English": "Parish celebrated its 70th anniversary with a dinner dance in February and an Anniversary Commemorative Book was published,",
+    "Chinese": "為慶祝建堂七十周年，堂區舉辦餐舞會和出版建堂紀念冊。",
+    "photos": []
+  },
+  {
+    "Date": "02-2003",
+    "English": "It was the first time that the parish celebrated the Chinese New Year with a special traditional Chinese Tribute to Ancestors ceremony after Sunday Mass. Parishioners exchanged good wishes for the New Year.",
+    "Chinese": "堂區第一次在春節按照華人傳統在主日彌撒後舉行敬祖禮儀。教友互相拜年。",
+    "photos": []
+  },
+  {
+    "Date": "02-2003",
+    "English": "Franciscan priest, Fr, Lionel Goh, Director of Studium Biblicum of Hong Kong gave a bible seminar on the Gospel of Luke.",
+    "Chinese": "方濟會會土吳岳清神父主持靈修講座，主題：路加福音。",
+    "photos": []
+  },
+  {
+    "Date": "03-2003",
+    "English": "Building Fund—Each family was asked to pledge a sum and a series of events was planned for the year— Walkathon, Garage Sale, Concert, Gala Dinner, Cantonese Opera, Bazaar, Singathon, Silent Auction and sale of T&T coupons. Parish Secretary, Mrs. Jennie Siu, is the administrator of donations to the Building Fund.",
+    "Chinese": "建堂基金—每個家庭認捐一個數額。此外，委員會亦籌辦不同的籌款活動—如百萬行、舊物大平賣，演唱會、聯歡宴會、粤劇、義賣、百萬唱、靜默拍賣、出售大統華禮劵等。堂區秘書蕭太負責管理建堂基金。",
+    "photos": []
+  },
+  {
+    "Date": "06-2003",
+    "English": "Retirement party for Ms. Therese Leung, who would retire this year after serving as Principal of SFX School for sixteen years.",
+    "Chinese": "梁兆珩校長榮休惜別茶會。梁校長為學校及堂區作育英才已有十六年之久。",
+    "photos": []
+  },
+  {
+    "Date": "06-2003",
+    "English": "Fr. Louis Tchang passed away after a heroic battle with lymphoma. Archbishop Exner presided at Fr. Tchang's Funeral Mass. Many parishioners attended Mass and the entombment rite at Garden of Gethsemane. Fr. Lou hired two buses to transport all to White Rock. Parishioners cooked and served the lunch reception at PLC. In memory\r\nof Fr. Tchang, his biography was published. (Fr. Tchang was born in Anhui, China on Dec 16, 1923, ordained in Toledo, Spain on July 14, 1957. He served as Pastor from 1997 to 2001).",
+    "Chinese": "張必剛神父安息主懷。總主教親臨為喪禮彌撒主祭。（張神父在1923年12月16日生於安徽蕪湖。1957年7月14日於西班牙多萊多晉鐸。1997年至 2001年任本堂主任司鐸）。",
+    "photos": []
+  },
+  {
+    "Date": "07-2003",
+    "English": "Fr. Richard Au was appointed Assistant Pastor.",
+    "Chinese": "歐健明神父就任本堂助理司鐸。",
+    "photos": []
+  },
+  {
+    "Date": "08-2003",
+    "English": "The parish welcomed Ms. Brenda Krivuzoff as the new school principal and Mrs. Henrietta Lee as the new Chinese Language Program Coordinator.",
+    "Chinese": "堂區歡迎 Brenda Krivuzoff女士接任聖方濟學校校長，同時歡迎李姚秀鳳女士接任聖方濟學校中文部主任。",
+    "photos": []
+  },
+  {
+    "Date": "09-2003",
+    "English": "Ms. Jenny Mary Ng replaced Mr. Jeremy Wong as parish Youth Ministry Coordinator.",
+    "Chinese": "Jenny Mary Ng女士接替 Jeremy Wong先生任少年牧民統籌主任。",
+    "photos": []
+  },
+  {
+    "Date": "10-2003",
+    "English": "Synod—Archbishop Exner presided at the Archdiocesan Synod's Closing Mass, calling on the Archdiocese to evangelize.",
+    "Chinese": "教區會議－總主教主持第四屆總教區會議閉幕彌撒，號召總教區參與福傳。",
+    "photos": []
+  },
+  {
+    "Date": "10-2003",
+    "English": "Parish invited Fr. Lionel Goh, Director of Studium Biblicum of Hong Kong to give a short bible course. Students received a certificate upon completion of the course.",
+    "Chinese": "堂區舉辦中文聖經課程，邀請香港思高聖經學會的吳岳清神父授課。完成課程可獲香港思高聖經學會頒發證書。",
+    "photos": []
+  },
+  {
+    "Date": "10-2003",
+    "English": "Sunday Café after Sunday Masses to be hosted by a different parish group on each Sunday. Mr. Benedict Hoang is the coordinator. The café affords a jovial environment for parishioners to visit with each other after Mass.",
+    "Chinese": "堂區各善會於每週彌撒後負責主日茶座。黃其耀先生負責協調。主日茶座之目的是為教友提供良好環境，在彌撒後互相問候及交談。",
+    "photos": []
+  },
+  {
+    "Date": "11-2003",
+    "English": "Parishioners hosted a festive dinner in the parish gym to celebrate Fr. Lou's 70th birthday. Parishioners cooked and served the dinner.",
+    "Chinese": "本堂教友在堂區禮堂為盧神父七十大壽設宴慶祝。教友們烹煮美味佳餚並以高水準之侍應服務嘉賓，更有豐富的表演節目助慶。",
+    "photos": []
+  },
+  {
+    "Date": "12-2003",
+    "English": "The old church building in Chinatown was sold to Korean Four Square Gospel Church for $1.13M.",
+    "Chinese": "在華埠的舊聖堂以一百一十三萬元售與韓國福音派基督教會。",
+    "photos": []
+  },
+  {
+    "Date": "01-2004",
+    "English": "Farewell and Thanksgiving Masses were celebrated at the old church building. All Sunday Masses are to be celebrated in the parish gym until the new church building is ready for occupancy. Fr. Lou established a Property Management Office which was staffed by volunteer managers.",
+    "Chinese": "天主之母感恩聖祭，舊聖堂惜別儀式。並於1月 4日起在堂區禮堂舉行主日彌撒。盧神父成立物業管理處，由教友義務担任經理。",
+    "photos": []
+  },
+  {
+    "Date": "01-2004",
+    "English": "The Alpha Team (later absorbed into Youth Ministry) presented its first evangelization program—Alpha for Catholics—a 12-week course on the basics of the Catholic faith. Four Alpha courses were run from January 2004 to November 2006; over 70 parishioners attended.",
+    "Chinese": "Alpha組（後來成為新青年牧民組）舉行他們的第一次福傳節目—天主教Alpha—這是一個為期十二周的天主教基礎信仰課程。超過七十位本堂教友參加。",
+    "photos": []
+  },
+  {
+    "Date": "02-2004",
+    "English": "Archbishop Adam Exner, OMI retired from office when he reached the mandatory retirement age of 75. Archbishop Raymond Roussin, SM was installed as the eighth Archbishop of Vancouver. Archbishop Roussin was the Bishop of Victoria since June 28, 1999. Fr.Lou and Fr. Au concelebrated at the Installation Mass.",
+    "Chinese": "總主教Adam Exner年滿七十五歲榮休。前域多利主教Raymond Roussin接任。盧神父和歐神父在就職彌撒中與主教共祭。",
+    "photos": []
+  },
+  {
+    "Date": "04-2004",
+    "English": "Divine Mercy Sunday parish held the first Divine Mercy Devotion celebration at 3:00pm in Cantonese and English.",
+    "Chinese": "神聖慈悲瞻禮（復活後第二主日）在堂區第一次舉行， 並以英語和廣東話慶祝。",
+    "photos": []
+  },
+  {
+    "Date": "04-2004",
+    "English": "First annual Garage Sale was held in the parish gym. Over $2,500 was raised for the New Church Building Fund.",
+    "Chinese": "第一次舊物大平賣在堂區體育館舉行。為建堂基金共籌得超過二千五百元善款。",
+    "photos": []
+  },
+  {
+    "Date": "05-2004",
+    "English": "Parish gave a concert featuring in-house talents and guest performers to raise fund for the new church building. Over $10,000 was raised for the New Church Building Fund.",
+    "Chinese": "堂區開辦慈善演唱會，為建堂基金籌得超過一萬元善款。",
+    "photos": []
+  },
+  {
+    "Date": "05-2004",
+    "English": "Lisa Wan and company performed in a Cantonese Opera to raise fund for the new church building. Over $16,000 was raised for the New Building Fund.",
+    "Chinese": "溫麗莎和她的劇友演唱粤劇，為建堂基金籌得超過一萬六千元善款。",
+    "photos": []
+  },
+  {
+    "Date": "05-2004",
+    "English": "The Bazaar, Singathon and Raffle combined raised over $100,000 for the first time.",
+    "Chinese": "義賣、百萬唱和慈善獎券抽獎首次籌得超過十萬元善款。",
+    "photos": []
+  },
+  {
+    "Date": "07-2004",
+    "English": "Day Care Building on East Georgia Street was sold for $l.8M. Due to space limitation, a pre-school would be set up in the school building in September.",
+    "Chinese": "位於 East Georgia街的托兒所以一百八十萬元售出。而學校之剩餘空間只適合開辦幼兒園。",
+    "photos": []
+  },
+  {
+    "Date": "08-2004",
+    "English": "All current Executive Officers of CCYO moved back to Hong Kong to work, leaving three members in the parish. Fr. Lou dissolved the organization and instructed Youth Ministry to form a new ministry for young adults.",
+    "Chinese": "青年會幹事全體回流香港，只剩下三位會員。於是盧神父創立新青年牧民組以代替青年會。",
+    "photos": []
+  },
+  {
+    "Date": "08-2004",
+    "English": "Parish celebrated Sr. Veronica Tang's 40th anniversary of religious profession with a festive lunch and lion dance.",
+    "Chinese": "堂區為鄧偉英修女慶祝發願四十周年。",
+    "photos": []
+  },
+  {
+    "Date": "09-2004",
+    "English": "Formation of the Youth Ministry Reorganization Team to plan and propose a new Youth Ministry structure and programming strategy. A survey of the needs, interests of teens and their parents was conducted. Fr. Lou and Archdiocesan YMO Director, Mr. Clay lmoo conducted an information session for all interested parishioners.",
+    "Chinese": "少年牧民重組委員會負責計劃和推行新的少年牧民項目和架構。盧神父和教區少年牧民部總監 Clay lmoo 先生為有興趣的教友主持諮詢會議。",
+    "photos": []
+  },
+  {
+    "Date": "09-2004",
+    "English": "Launching of Catholic Scripture Study program (CSS), a worldwide Catholic bible study program written by renowned bible scholars. Each course is 28 weeks and covers one book - John, Exodus, Revelation, Acts, Genesis, Matthew and Ephesians.",
+    "Chinese": "成立英語聖經研讀班，使用由世界著名聖經學者所寫的注釋。每期二十八週—若望福音、出谷記、默示錄、宗徒大事錄、創世紀、瑪竇福音和厄弗所書。",
+    "photos": []
+  },
+  {
+    "Date": "10-2004",
+    "English": "Opening of the 'Year of the Eucharist' (Oct 2004 - Oct  2005), proclaimed by Pope John Paul II for the Universal Church with the main theme of \"The Eucharist as the Source and Summit of the Life and Mission of the Church\". Two goals were set by the Holy Father - the revival of Sunday as the original feast day of the Church, and an increase in Eucharistic worship outside Mass.",
+    "Chinese": "聖體年開始 (2004 年 10月 - 2005年10月）教宗若望保祿二世宣佈普世教會慶祝聖體年。主題是：「聖體聖事是教會生活和使命的泉源和高峰」。",
+    "photos": []
+  },
+  {
+    "Date": "01-2005",
+    "English": "Church Building Project - due to the rapid price increase in building material and labor, the capacity of the church is scaled down to 680 seats to bring the cost under $10M. Building of the underground parkade is a separate project.",
+    "Chinese": "建堂工程—因為建築材料和工資的快速增長，新堂建築面積縮小至六百八十個座位，使費用低於一千萬元。地下停車場和聖堂的建築設計分開。",
+    "photos": []
+  },
+  {
+    "Date": "01-2005",
+    "English": "Kick off' of the new Youth Ministry, under a new team of Youth Ministers, ministering to youth in Grades 6-12; weekly Youth Night was organized to replace the ImPACT program.",
+    "Chinese": "新誕生的少年牧民取替了舊的ImPACT。逢週五晚為六至十二年級的學生舉行活動，名為 \"Youth Night\"。",
+    "photos": []
+  },
+  {
+    "Date": "04-2005",
+    "English": "Pope John Paul II passed away at 9:37pm (Vatican time). Three million Catholics and others flocked to Vatican to pay him homage.",
+    "Chinese": "教宗若望保祿二世於梵蒂岡時間下午九時三十七分逝世，三百萬天主教教友和其他人湧到梵蒂岡向他表示敬意。",
+    "photos": []
+  },
+  {
+    "Date": "04-2005",
+    "English": "Solemn Funeral Mass and Entombment of Pope John Paul II at St. Peter's Basilica. Joseph Cardinal Ratzinger (later Pope Benedict XVI), Dean of the Sacred College of Cardinals presided at Mass and the Funeral Rite.",
+    "Chinese": "教宗若望保祿二世的殯葬彌撒和安葬禮在聖伯多祿大殿舉行。樞機團主任拉辛格樞機（教宗本篤十六世）主持彌撒和葬禮儀式。",
+    "photos": []
+  },
+  {
+    "Date": "04-2005",
+    "English": "Joseph Cardinal Ratzinger was elected Pope and took the name Benedict XVI. The Holy Father was the Prefect of the Congregation of the Doctrine of Faith. Installation Mass was celebrated on April 24.",
+    "Chinese": "拉辛格樞機主教被選為新教宗，取名本篤十六。新教宗當時是教庭信理部部長。就職彌撒於四月二十四日舉行。",
+    "photos": []
+  },
+  {
+    "Date": "05-2005",
+    "English": "Forty Holy Hours - Exposition and Eucharistic Adoration to celebrate the Year of the Eucharist.",
+    "Chinese": "四十小時的聖時—明供聖體和朝拜聖體慶祝聖體年。",
+    "photos": []
+  },
+  {
+    "Date": "05-2005",
+    "English": "Beginning this year, Youth Ministry offered an opportunity for youth to host brunches on Mother's Day and Father's Day - days for the youth to show their filial love for their parents by cooking and serving them an elegant meal.",
+    "Chinese": "少年牧民組於今年開辦母親節及父親節早午餐—少年們利用這兩個重要日子向他們的父母表示子女的愛。為父母烹調美味佳餚，更為父母獻上高雅的侍應服務。",
+    "photos": []
+  },
+  {
+    "Date": "07-2005",
+    "English": "Fr. Richard Au was transferred to St. Patrick parish in Maple Ridge as Pastor.",
+    "Chinese": "歐健明神父被調往楓葉嶺聖博多堂出任主任司鐸。",
+    "photos": []
+  },
+  {
+    "Date": "07-2005",
+    "English": "World Youth Day 2005 in Cologne—Fr. Richard Au led a SFX pilgrimage group to Poland and the 20th WYD. The theme was \"We have come to worship Him\" (Mt 2:2)",
+    "Chinese": "2005年世青節－歐神父帶領聖方濟堂朝聖團參加在德國科隆舉行的第二十屆世青節。本屆世青節的主題是：「我們來朝拜祂」。 （瑪 2:2)",
+    "photos": []
+  },
+  {
+    "Date": "08-2005",
+    "English": "The parish welcomed Fr. Vincent Nguyen, CSJB and Fr. Ansgar Pham, CSJB of the Congregation of St. John Baptist from New York to serve as Assistant Pastors. They are ethnic Vietnamese who can speak fluent Mandarin. In the following year, they embarked on an exiting journey of Cantonese lessons taught by volunteer parishioners.",
+    "Chinese": "本堂區歡迎耀漢小兄弟會的阮神父和范神父從紐約來本堂服務。他們是越南人，但可以講流利的普通話。到步不久即開始學習廣東話。",
+    "photos": []
+  },
+  {
+    "Date": "09-2005",
+    "English": "Phase I of the new Youth Ministry programming— launching of the EDGE—a comprehensive middle school program for teens in Grades 6-9. Weekly EDGE night, which replaced the former Youth Night, was conducted. Senior teens were invited to serve as youth leaders under the guidance of the adult Youth Ministers - Jenny Ng, Amy Leung, Clive Leung and Paul Siu.",
+    "Chinese": "新少年牧民計劃第一階段—逢週五晚為六至九年級學生舉辦EDGE Night,以取代舊有的 Youth Night。",
+    "photos": []
+  },
+  {
+    "Date": "10-2005",
+    "English": "Ms. Leolinda Achiam, the parish secretary retired after 40 years of dedicated service to the parish. Ms. Teresa Wong was appointed to replace her.",
+    "Chinese": "堂區秘書龔玉堅女士退休。感謝她為堂區服務了四十年。由王玉喬女土接任。",
+    "photos": []
+  },
+  {
+    "Date": "12-2005",
+    "English": "Parish would organize a series of events to celebrate the 500th anniversary of the birth of our patron saint, St. Francis Xavier in 2006 - poster contest, sports tournament, concert and a gala fund-raising dinner on December 3, 2006.",
+    "Chinese": "堂區將舉辦一系列的活動慶祝本堂主保聖方濟·沙勿略誕生五百週年—有海報、體育比賽、音樂會和籌款晚宴 (2006 年 12 月 3 日）。",
+    "photos": []
+  },
+  {
+    "Date": "12-2005",
+    "English": "Celebration of Fr. Lou's 40th anniversary of priestly ordination.",
+    "Chinese": "慶祝盧神父晉鐸四十周年。",
+    "photos": []
+  },
+  {
+    "Date": "01-2006",
+    "English": "Phase II of the new Youth Ministry programming— launching of a new ministry program for high school teens—Youth Readers and Singers group. Members would serve as lectors and singers in the future Youth Mass slated to open on Pentecost Sunday.",
+    "Chinese": "新少年牧民計劃第二階段－成立少年讀經員和歌唱組，成員將在未來的少年彌撒中負責讀經和唱歌，少年彌撒將在聖神降臨節開始。",
+    "photos": []
+  },
+  {
+    "Date": "02-2006",
+    "English": "Together with fourteen prelates worldwide, Bishop Joseph Zen, SDB of Hong Kong was elevated to the rank of Cardinal by Pope Benedict XVI. Chinese Catholics in Vancouver sent him our congratulations.",
+    "Chinese": "香港陳日君主教和十四位世界各地的主教被教宗本篤十六世授封為樞機主教。溫哥華的華人教友向他祝賀。",
+    "photos": []
+  },
+  {
+    "Date": "02-2006",
+    "English": "Knights of Columbus Council 10500 was established in the parish. Mr. Robert Ku was elected the first Grand Knight.",
+    "Chinese": "10500騎尉會在本堂區成立。顧景燿先生被選為第一屆大騎土。",
+    "photos": []
+  },
+  {
+    "Date": "04-2006",
+    "English": "The monstrance, blessed by Pope John Paul II at the beginning of the 'Year of the Eucharist', came to Vancouver. Archdiocesan Vocation Office sponsored the \"Eucharistic Event 2006\" to pray for vocations to the priesthood and religious life. Youth Ministry led the youth to the event at St. Patrick Secondary School.",
+    "Chinese": "教宗若望保祿二世祝福的聖體皓光來臨溫哥華。總教區聖召辦公室為神職和修會生活聖召祈禱，舉辦「明供聖體大會」。堂區少年牧民組帶領少年人到聖博多中學朝拜聖體。",
+    "photos": []
+  },
+  {
+    "Date": "04-2006",
+    "English": "SFX Ladies Club joined the Catholic Women's League of Canada, thus becominga council of this national women's organization which calls its members to holiness through service to the people of God. Ms. Therese Leung was elected President of CWL.",
+    "Chinese": "聖方濟婦女會加入加拿大公教婦女會成為本國公教婦女組織的—份子。梁兆珩女士被選為本堂公教婦女會的主席。",
+    "photos": []
+  },
+  {
+    "Date": "05-2006",
+    "English": "Focus on Life Gala Dinner—Youth Ministry was invited by Pro-Life Society of BC to send twelve senior teens to serve as Youth Ushers at the annual fund-raising dinner at Hyatt Regency Hotel. This was a good opportunity for our teens to learn about and participate in this most important justice issue.",
+    "Chinese": "維護生命籌款晚宴—堂區少年牧民組帶領十二位少年人作迎賓員。",
+    "photos": []
+  },
+  {
+    "Date": "06-2006",
+    "English": "Pentecost Sunday—the first monthly Youth Mass which would be celebrated on the first Sunday of each month at\r\n11:15am with the Youth Readers & Singers serving as lectors and lead singers.",
+    "Chinese": "五旬節主日（聖神降臨節）—我們慶祝首次每月一次的少年彌撒，在每月的首主日，少年人會在十一時十五分的彌撒中負責讀經和詠唱。",
+    "photos": []
+  },
+  {
+    "Date": "07-2006",
+    "English": "Fr. Ansgar Pham, CSJB left SFX and returned to the United States. Fr. Vincent began to serve part-time at VGH as hospital chaplain. We welcomed Fr. John Tran, CSJB and Fr. Joseph Ly, CSJB as the new Assistant Pastors. Fr. Tran holds a doctorate degree in Canon Law and is an accomplished song composer.",
+    "Chinese": "范神父返回美國。阮神父為溫哥華總醫院作兼職院牧。本堂區歡迎耀漢會的陳神父和李神父作本堂的助理司鐸。陳神父是教會法典學博士，亦是作曲家。",
+    "photos": []
+  },
+  {
+    "Date": "08-2006",
+    "English": "Mr. Benedict Hoang retired from the Chinese School. Mrs. Ivy Tam replaced him as Principal of Msgr. Chow Memorial (Sat) Chinese School. Mrs. Maria Yu replaced Mr. Hoang as PLC manager.",
+    "Chinese": "黃其耀先生榮休。譚陳淑英女士接替黃先生作周若漁中文紀念學校的校長。余譚玲女士接替黃先生作堂區活動中心的主管。",
+    "photos": []
+  },
+  {
+    "Date": "08-2006",
+    "English": "Church Building Project—Nisus Construction was awarded the contract to build the new church building which seats 680 on the east end of our property for $9.5M. Only the church proper with 30 parking stalls will be functional, the remaining areas - the rectory, parish office, activity area, etc. will be unfinished. A Building Committee was formed to oversee the construction work. The contract is expected to be completed by Summer 2008.",
+    "Chinese": "建堂工程—Nisus建築公司成功投得新聖堂建築權，標價九百三十萬元。新聖堂有六百八十個座位和三十個車位。神父住所、教堂辦事處及活動中心將不在基本建築費內。堂區建築委員會負責監督工程之進度。整個建築工程望在 2008 年夏季完工。",
+    "photos": []
+  },
+  {
+    "Date": "12-2006",
+    "English": "Gala Fund-Raising Dinner hosted by Knights of Columbus to close the year long celebration of the 500th anniversary of the birth of our patron saint. All four choirs performed in a Concert of Sacred Music - 'For the Beauty of the Earth' on December 2.",
+    "Chinese": "堂區騎尉會主持慶祝本堂主保誕生五百周年閉幕聯歡晚宴。12月2日堂區四個歌詠團合作表演一個聖樂演唱會。",
+    "photos": []
+  },
+  {
+    "Date": "12-2006",
+    "English": "Synod—Promulgation of the Declaration of the Fourth Archdiocesan Synod, Archbishop Roussin presided at the Mass and officiated at the promulgation ceremony at Holy Rosary Cathedral. Mr. Francis Tse represented our parish to receive the Declaration from the Archbishop. Each parish was required to study the 50 propositions and submit a Parish Pastoral Plan to the Archbishop by September 2007.",
+    "Chinese": "教區會議—總主教宣佈教區第四屆總教區策略會議完滿結束，謝啓彬先生代表本堂區從總主教手中接收策略建議書。總主教要求毎個堂區硏究五十條建議並於2007 年 9 月交上堂區牧靈計劃書。",
+    "photos": []
+  },
+  {
+    "Date": "12-2006",
+    "English": "School Musical Play—Messengers of Light (Part I)—the entire school performed in a completely original Christmas production. Conceived and written by school staff, Messengers of Light chronicled the angelic visitations surrounding the traditional Nativity story from the unique perspective of the archangels in a boardroom setting.",
+    "Chinese": "學校音樂會—光明的使者（第一集）—全體教師學生參與的聖誕音樂原創劇。",
+    "photos": []
+  },
+  {
+    "Date": "03-2007",
+    "English": "Parish Pastoral Plan Committee (PPPC) was formed— seven parishioners were appointed by Fr. Lou to assist Fr. Tran, Chairman of the PPPC to study and prepare the Parish Pastoral Plan.",
+    "Chinese": "堂區牧靈計劃委員會成立—盧神父委任七位堂區教友協助陳神父，硏究並準備堂區牧靈計劃書。",
+    "photos": []
+  },
+  {
+    "Date": "03-2007",
+    "English": "THINKfast—this was the first year Youth Ministry organized this social justice program for youth. In 25 hours, the youth learned about the Church's teachings on social justice and charity, the demise of poor people in the Global South through fun activities and presentations.",
+    "Chinese": "THINKfast—守齋25小時，通過有趣的活動，少年們學習教會對社會正義及和平的訓導。",
+    "photos": []
+  },
+  {
+    "Date": "05-2007",
+    "English": "Cardinal Joseph Zen of Hong Kong stopped over on his tour of North America visiting Chinese Catholics and had dinner with our parishioners.",
+    "Chinese": "香港陳日君樞機到訪與教友共晉晚餐。",
+    "photos": []
+  },
+  {
+    "Date": "05-2007",
+    "English": "Focus on Life Gala Dinner—Youth Ministry was once again invited by Pro-Life Society of BC to send twelve senior teens to serve as Youth Ushers at the annual fund-raising dinner at Fairmont Hotel Vancouver.",
+    "Chinese": "維護生命籌款晚宴—堂區少年牧民組帶領十二位少年人作迎賓員。",
+    "photos": []
+  },
+  {
+    "Date": "05-2007",
+    "English": "Parish invited famous Hong Kong actress Helena Law Lan to give her faith testimony at the May evangelization rally. She assisted in fund raising at the Bazaar and Singathon too.",
+    "Chinese": "堂區邀請香港著名女演員羅蘭在五月的福傳大會上作信仰見證。她同時參與義賣和百萬唱。",
+    "photos": []
+  },
+  {
+    "Date": "06-2007",
+    "English": "Zagreb Construction was awarded the contract to build a 2-level underground parkade with 100 parking stalls for $3.5M. The contract is expected to be completed in June 2008.",
+    "Chinese": "Zagreb建築公司成功投得興建兩層地下停車場之建築權，擁有一百個車位，造價三百五十萬元之停車場有望在 2008 年 6 月完工。",
+    "photos": []
+  },
+  {
+    "Date": "07-2007",
+    "English": "Fr. Vincent Nguyen, CSJB was transferred to serve as hospital chaplain at Mt. St. Joseph Hospital and St. Vincent hospital. Fr. Joseph Ly, CSJB was transferred by his order to Toronto to serve at Chinese Martyr Parish. Fr. Dominic Qin, CSJB replaced Fr. Vincent as Assistant Pastor and part time chaplain at VGH. Fr. Bernard Ding, CSJB replaced Fr. Ly.",
+    "Chinese": "阮神父調往聖若瑟和聖文生醫院做全職醫院牧靈工作。李神父調往多倫多耀漢會負責的中華殉道堂工作。秦神父接替阮神父在堂區及溫哥華總醫院作兼職工作，丁神父接替李神父。",
+    "photos": []
+  },
+  {
+    "Date": "07-2007",
+    "English": "Mr. Ming Lau was elected second Grand Knight of Knights of Columbus Council 10500.",
+    "Chinese": "劉冠明先生被選為第二屆10500騎尉會的大騎士。",
+    "photos": []
+  },
+  {
+    "Date": "08-2007",
+    "English": "Welcome Mass at Holy Rosary Cathedral for Coadjutor Archbishop, J. Michael Miller, CSB. Coadjutor Archbishop Miller was the Secretary of the Congregation of Education in Vatican. He has the right of succession to the Office of Archbishop of Vancouver and will serve as Vicar General of the Archdiocese, assisting Archbishop Roussin to shepherd the flock.",
+    "Chinese": "歡迎助理總主教 Michael Miller。他曾任教廷教育部秘書一職，擁有溫哥華總教區總主教的繼承權。現在他執行副主教的職務．幫助總主教 Roussin 照顧羊群。",
+    "photos": []
+  },
+  {
+    "Date": "09-2007",
+    "English": "Phase III of the new Youth Ministry program—'kick-off' of Young Adult Ministry which ministers to young people, single and married in their 20s and 30s. Faith formation\r\nand community building programs were planned for the year. YAM replaced CCYO.",
+    "Chinese": "新少年牧民計劃第三階段—青年牧民誕生，為20-30歲未婚及巳婚之青年服務以取代舊有的青年會。",
+    "photos": []
+  },
+  {
+    "Date": "09-2007",
+    "English": "Fr. Lou approved and signed the Parish Pastoral Plan that was submitted to the Archbishop's office. The Plan was printed into booklets (English and Chinese) for all parishioners to read.",
+    "Chinese": "盧神父同意並簽署了堂區牧靈計劃書。堂區牧靈計劃書已呈交主教公署並印成小冊子（中英文）供堂區所有教友閱讀。",
+    "photos": []
+  },
+  {
+    "Date": "10-2007",
+    "English": "First Friday Devotion Mass in English at 9:00pm was celebrated for the first time for English speaking parishioners and youth.",
+    "Chinese": "首星期五敬禮聖心的英文彌撒，第一次于晚上九時舉行，服務講英語之教友和少年人。",
+    "photos": []
+  },
+  {
+    "Date": "12-2007",
+    "English": "Lourdes celebrates the 150th anniversary of the apparition of the Blessed Mother to St. Bernadette. The Jubilee celebration is from December 8, 2007 to December 8, 2008. A pilgrimage tour to Lourdes and Fatima during the year was planned.",
+    "Chinese": "路德聖母顯現給聖女伯納德一百五十週年紀念。這個聖年的慶祝由2007年12月8日至2008年12月8日。堂區計劃率領教友往路德和花地瑪朝聖。",
+    "photos": []
+  },
+  {
+    "Date": "01-2008",
+    "English": "The Parish's Diamond Jubilee - a series of festive activities were planned to celebrate the 75th anniversary of the founding of our parish. An Anniversary Commemorative Book would be published and a host of festive events were planned - pilgrimage to Europe, weekly bible quote program, expanded daily Mass and Eucharistic Adoration schedules, bible knowledge competition, consecration of the new Church building and gala dinner.",
+    "Chinese": "堂區鑽禧慶典－不同的慶祝活動計劃在堂區建堂七十五周年之際舉行。將出版一本白金慶典紀念冊和一系列的活動—歐洲朝聖旅行、每週聖經金句、每週朝拜聖體、聖經知識競賽、祝聖新堂和聯歡晚宴。",
+    "photos": []
+  },
+  {
+    "Date": "02-2008",
+    "English": "World Day for Consecrated Life - Fr. Tran and the religious priests and sisters led a day of reflection and sharing to thank God for religious vocations. A Parish Vocation Committee was formed as instructed by the Archbishop. Fr. Tran is the Chairman of the PVC.",
+    "Chinese": "普世奉獻生活節—陳神父和在本堂區服務的修會神父和修女帶領平信徒用一天的時間反省和分享奉獻生活的經驗以感謝天主所賜的奉獻生活聖召。堂區聖召委員會在總主教的授意下正式成立。陳神父是堂區聖召委員會的負責人。",
+    "photos": []
+  },
+  {
+    "Date": "02-2008",
+    "English": "School Musical Play—Messengers of Light (Part II)—the entire school performed in a completely original production which chronicled the public ministry of Jesus up to the Last Supper from the unique perspective of the archangels in a boardroom setting.",
+    "Chinese": "學校音樂會—光明使者（第二集）—整個學校上演了耶穌公開生活至最後晚餐的故事。 DVD 銷售所得款項捐贈坦桑尼亞的AMANI兒童中心。",
+    "photos": []
+  },
+  {
+    "Date": "03-2008",
+    "English": "THINKfast—this was the second year Youth Ministry organized this social justice program for youth sponsored by Development and Peace. The Archdiocese had established a new Office of Service and Justice in October 2007, the Coordinator, Mr. Chris Radziminski came to teach the youth what they can do to bring about a more just sociery.",
+    "Chinese": "THINKfast—第二屆少年牧民組舉辦的社會正義活動。總教區在2007年10月建立一個新的服務和正義辦公室，主任是 Chris Radziminski先生，他來到本堂區教導少年們如何建立一個更正義的世界。",
+    "photos": []
+  },
+  {
+    "Date": "04-2008",
+    "English": "Fr. Lou led a 16-day pilgrimage to Lourdes, Fatima and Rome.",
+    "Chinese": "盧神父帶領教友往路德、花地瑪和羅馬朝聖。",
+    "photos": []
+  },
+  {
+    "Date": "05-2008",
+    "English": "The Archdiocese of Vancouver began its celebration of the 100th anniversary of its establishment as an Archdiocese in September 1908 with a Eucharistic procession in Abbotsford's Rotary Stadium on May 18. Other events to mark the centenary are a gala dinner on October 31 at the Hyatt Hotel in Vancouver, an anniversary celebration at GM Place on November 23, and a December 13 presentation of Handel's Messiah.",
+    "Chinese": "温哥華總教區於1908年9月成立至今巳有100年，總教區為慶祝這百年盛事，將舉辦一連串的慶祝活動，首要慶典是在5月18日在Abbostford運動場舉行的聖體遊行。其他活動有10月31日假温哥華凱悅酒店舉行的盛宴、11月23日假GM Place舉行的世紀慶典及12月13日演出韓德爾的彌賽亞曲。",
+    "photos": []
+  },
+  {
+    "Date": "07-2008",
+    "English": "Fr. Lou stepped down at age 75. Fr. John Tran, CSJB succeeded as pastor.",
+    "Chinese": "盧神父年滿75周歲退任，耀漢會陳耀漢神父接任本堂主任司鐸。",
+    "photos": []
+  },
+  {
+    "Date": "07-2008",
+    "English": "World Youth Day 2008 in Sydney—Ms. Theresa Ko and Mr. Clive Leung led a SFX pilgrimage group journeyed to Australia to participate in the 23rd WYD. Fr. Hien Nguyen, Director of the Archdiocesan Vocation Office was the pilgrimage chaplain. The theme was \"You will receive power when the Holy Spirit has come upon you, and you will be My witnesses\" (Acts 1:8).",
+    "Chinese": "2008年世青節—聖方濟堂組朝聖團前往澳洲悉尼參加第廿三屆世青節。本屆主題是：「當聖神降臨于你們身上時，你們將充滿聖神的德能，為我作證人」。（宗 1:8)",
+    "photos": []
+  },
+  {
+    "Date": "07-2008",
+    "English": "Thanksgiving celebration dinner in honor of Fr. Lou who has dedicated his whole life to our parish - building the parish up to be a vibrant community of faith, evangelizing and serving the Chinese catholic community in the Archdiocese of Vancouver.",
+    "Chinese": "感恩晚宴以感謝盧神父為聖方濟堂區奉獻他的一生—在溫哥華天主教總教區內將本堂建設為一個榮耀的信仰團體，致力福傳和服務華人教友。",
+    "photos": []
+  },
+  {
+    "Date": "08-2008",
+    "English": "Thanksgiving Mass and lunch to honor Sr. Veronica Tang, SIHM for 25 years of dedicated service to the Parish and Day Care Center.",
+    "Chinese": "感恩彌撒並晚宴以感謝鄧修女為堂區及托兒所服務 25 年。",
+    "photos": []
+  },
+  {
+    "Date": "09-2008",
+    "English": "Dinner to welcome Fr. Tran, CSJB as our new pastor.",
+    "Chinese": "歡迎陳神父就任本堂新主任司鐸晚餐。",
+    "photos": []
+  },
+  {
+    "Date": "12-2008",
+    "English": "Consecration of the new church building.",
+    "Chinese": "祝聖新聖堂。",
+    "photos": []
+  },
+  {
+    "Date": "12-2008",
+    "English": "Gala Dinner organized by Knights of Columbus and Photo Club.",
+    "Chinese": "堂區騎尉會和攝影會共同籌辦聯歡晚宴。",
+    "photos": []
+  },
+  {
+    "Date": "07-2019",
+    "English": "Vietnamese immigrants of St. Francis Xavier Families celebrate 40th Anniversary with Mass and Dinner.",
+    "Chinese": "越南方濟之家40週年感恩彌撒及晚會。",
+    "photos": []
+  },
+  {
+    "Date": "11-2019",
+    "English": "Parish hosts \"\"The Bible, Salvation History\"\" Presentation by Grace Lee.",
+    "Chinese": "聖方濟堂舉辦了「聖經：我們的救恩史」講座。",
+    "photos": []
+  },
+  {
+    "Date": "03-2020",
+    "English": "Archdiocese of Vancouver announced that all Masses and parish activities be suspended.",
+    "Chinese": "溫哥華教區指示，所有彌撒及堂區活動取消。",
+    "photos": []
+  },
+  {
+    "Date": "03-2020",
+    "English": "Parish started to have online virtual Mass.",
+    "Chinese": "堂區開始現場直播主日感恩祭。",
+    "photos": []
+  },
+  {
+    "Date": "05-2020",
+    "English": "Resuming Public Mass with an upper limit of 50 attendances.",
+    "Chinese": "恢復公開彌撒，人數上限為50。",
+    "photos": []
+  },
+  {
+    "Date": "04-2021",
+    "English": "Easter Sunday Parish celebrated 5 Masses in open School playground.",
+    "Chinese": "復活節主日－堂區在學校操場舉行5 台戶外彌撒。",
+    "photos": []
+  },
+  {
+    "Date": "07-2021",
+    "English": "Parish resumed all Masses.",
+    "Chinese": "堂區恢復所有彌撒。",
+    "photos": []
+  },
+  {
+    "Date": "08-2021",
+    "English": "\"\"Welcome home to S.F.X. Let us celebrate Our Blessed Mother!\"\" event Archbishop Michael Miller, CSB celebrated mass to welcome parishioners returning to the parish. After mass, parishioners have a reunion with their friends and a greeting with the new immigrants in the \"\"Night Market\"\" event organized by parish sodalities.",
+    "Chinese": "「與聖母同在，聖方濟大家庭與你重聚」總主教 Michael Miller 舉行彌撒，歡迎教友重返教堂。彌撒結束後，教友與朋友重聚，並與新移民教友參加了堂區善會舉辦的「夜市」活動。",
+    "photos": []
+  },
+  {
+    "Date": "05-2022",
+    "English": "Fr. Aloysius Lou at the age of eighty-eight, passed away peacefully in the comfort of his home, on May 20, 2022.",
+    "Chinese": "盧湛明神父於五月二十日蒙主寵召，安詳返回主的懷抱，享年八十八歲。",
+    "photos": []
+  },
+  {
+    "Date": "12-2022",
+    "English": "Archbishop Michael Miller, CSB blessed the 12 Apostles Stained Glass.",
+    "Chinese": "總主教 Michael Miller 祝聖十二宗徒彩繪玻璃。",
+    "photos": []
+  },
+  {
+    "Date": "02-2023",
+    "English": "Feast Day of Our Lady of Lourdes - Anointing of the Sick Mass & Senior Luncheon.",
+    "Chinese": "露德聖母瞻禮日病人傅油彌撒及長者聯歡午宴。",
+    "photos": []
+  },
+  {
+    "Date": "03-2023",
+    "English": "Lenten Taizé Prayer with Children and their families.",
+    "Chinese": "四旬期泰澤祈禱，與孩子及家人一起以歌聲頌讚天主。",
+    "photos": []
+  },
+  {
+    "Date": "05-2023",
+    "English": "Archbishop Michael Miller, CSB celebrated Marriage Anniversary Mass Archdiocese event.",
+    "Chinese": "總主教 Michael Miller 舉行結婚週年紀\n念彌撒的教區活動。",
+    "photos": []
+  },
+  {
+    "Date": "06-2023",
+    "English": "Cursillo in Christianity.",
+    "Chinese": "基督活力運動。",
+    "photos": []
+  },
+  {
+    "Date": "06-2023",
+    "English": "Congregation of St. John the Baptist celebrated the 95th Anniversary and Fr. Joseph Ly and Fr. Dominic Hoang celebrated the 20th Anniversary of ordination to the Priesthood. Thanksgiving Mass & dinner.",
+    "Chinese": "耀漢小兄弟會慶祝九十五週年暨李志雄神父及黃公宇神父晉鐸二十週年感恩聖祭及聚餐。",
+    "photos": []
+  },
+  {
+    "Date": "07-2023",
+    "English": "Fr. Joseph Ly and Sr. Teresa Gou led 12 youths to World Youth Day in Portugal.",
+    "Chinese": "李志雄神父和敬雅潔修女率領12名青年參加葡萄牙舉行的世界青年節。",
+    "photos": []
+  },
+  {
+    "Date": "09-2023",
+    "English": "Priests from the Little Brothers of St. John the Baptist Congregation, serving in Taiwan, Vietnam, and the United States, visited St. Francis Xavier Parish.",
+    "Chinese": "在台灣，越南和美國服務的7位耀漢小兄弟會神父訪問聖方濟堂。",
+    "photos": []
+  },
+  {
+    "Date": "09-2023",
+    "English": "Sr. Maria Ko Bible Talks.",
+    "Chinese": "高夏芳修女實體聖經講座。",
+    "photos": []
+  },
+  {
+    "Date": "10-2023",
+    "English": "Rosary Musical Prayer - All choirs from St. Francis Xavier Parish hosted a special joint musical prayer session for all parishioners.",
+    "Chinese": "玫瑰月祈禱音樂會－堂區所有聖歌詠團聯合舉行一個別開生面的祈禱音樂會。",
+    "photos": []
+  },
+  {
+    "Date": "11-2023",
+    "English": "Extended an honourable invitation to Archbishop Savio Tai Fai Hon, SDB to join us in the St. Francis Xavier Parish's 90th Anniversary celebration.",
+    "Chinese": "榮幸誠邀到韓大輝總主教蒞臨與我們一起慶祝聖方濟堂建堂九十週年。",
+    "photos": []
+  },
+  {
+    "Date": "12-2023",
+    "English": "Extended an honourable invitation to Archbishop Michael Miller and Archbishop Savio Tai Fai Hon to celebrate the 90th Anniversary of St. Francis Xavier Parish and the 15th Anniversary of Dedication of Our New Church Celebration Thanksgiving Mass & Gala Dinner.",
+    "Chinese": "榮幸誠邀到總主教 Michael Miller 及韓大輝總主教慶祝聖方濟堂成立九十週年暨祝聖新聖堂十五週年主保瞻禮感恩彌撒及晚宴。",
+    "photos": []
   }
-   ]
+]

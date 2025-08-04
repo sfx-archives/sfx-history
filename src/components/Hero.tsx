@@ -55,7 +55,7 @@ const Hero = ({ handleViewChange }: Props): JSX.Element => {
           />
         </div>
         <a
-          className="text-7xl font-tage text-center hover:text-shadow-lg hover:cursor-point"
+          className="text-7xl font-tage text-center hover:cursor-pointer transition-all duration-300 hover:-translate-y-1 hover:drop-shadow-[0_8px_16px_rgba(0,0,0,0.4)]"
           href="#"
           onClick={() => {
             openSideWindow("https://sfx.rcav.org/");

@@ -13,4 +13,13 @@ export const monthNames: { [key: string]: string } = {
   "12": "December",
 };
 
-export const years: string[] = ["193", "196", "197", "198", "201", "202"];
+export const years: string[] = [
+  "193",
+  "196",
+  "197",
+  "198",
+  "199",
+  "200",
+  "201",
+  "202",
+];

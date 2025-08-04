@@ -1,5 +1,3 @@
-import { JSX } from "react";
-import { monthNames } from "../model";
 import {
   Carousel,
   CarouselContent,
@@ -7,6 +5,8 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
+import { JSX } from "react";
+import { monthNames } from "../model";
 
 interface CardProps {
   index: number;
@@ -17,7 +17,7 @@ interface CardProps {
 }
 
 const Card = ({ index, date, chin, eng, photos }: CardProps): JSX.Element => {
-  const month = monthNames[date.slice(0, 2)];
+  const month = date.length === 7 ? monthNames[date.slice(0, 2)] : "";
   console.log(index);
   return (
     <div
@@ -26,7 +26,7 @@ const Card = ({ index, date, chin, eng, photos }: CardProps): JSX.Element => {
       }`}
     >
       <p className="font-merri text-xl font-bold text-white block mb-2">
-        {month} {date.slice(3, 7)}
+        {date.length === 7 ? month + " " + date.slice(3, 7) : date}
       </p>
       <p>{chin}</p>
       <p>{eng}</p>
