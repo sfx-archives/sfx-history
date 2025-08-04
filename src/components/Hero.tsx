@@ -16,7 +16,44 @@ const Hero = ({ handleViewChange }: Props): JSX.Element => {
 
   return (
     <InView onChange={(inView: boolean) => handleViewChange({ inView })}>
-      <div className="flex items-center justify-center flex-col m-10 mb-0 pt-10 text-white ">
+      <div className="flex items-center justify-center flex-col m-10 mb-0 mt-0 text-white ">
+        <div className="flex flex-row gap-4 m-5">
+          <img
+            src="/50th_front_cover.jpeg"
+            alt="50th cover"
+            className="w-16 h-20"
+          />
+          <img
+            src="/60th_front_cover.jpeg"
+            alt="60th cover"
+            className="w-16 h-20"
+          />
+          <img
+            src="/70th_front_cover.jpeg"
+            alt="70th cover"
+            className="w-16 h-20"
+          />
+          <img
+            src="/75th_front_cover.jpeg"
+            alt="75th cover"
+            className="w-16 h-20"
+          />
+          <img
+            src="/80th_front_cover.jpeg"
+            alt="80th cover"
+            className="w-16 h-20"
+          />
+          <img
+            src="/85th_front_cover.jpeg"
+            alt="85th cover"
+            className="w-16 h-20"
+          />
+          <img
+            src="/90th_front_cover.jpeg"
+            alt="90th cover"
+            className="w-16 h-20"
+          />
+        </div>
         <a
           className="text-7xl font-tage text-center hover:text-shadow-lg hover:cursor-point"
           href="#"
