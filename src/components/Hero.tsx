@@ -17,7 +17,7 @@ const Hero = ({ handleViewChange }: Props): JSX.Element => {
   return (
     <InView onChange={(inView: boolean) => handleViewChange({ inView })}>
       <div className="flex items-center justify-center flex-col m-10 mb-0 mt-0 text-white ">
-        <div className="flex flex-row gap-4 m-5">
+        <div className="flex flex-row flex-wrap justify-center gap-4 m-5">
           <img
             src="/50th_front_cover.jpeg"
             alt="50th cover"
@@ -51,7 +51,7 @@ const Hero = ({ handleViewChange }: Props): JSX.Element => {
           <img
             src="/90th_front_cover.jpeg"
             alt="90th cover"
-            className="w-16 h-20"
+            className="w-16 h-20 hidden md:block"
           />
         </div>
         <a

@@ -24,7 +24,7 @@ const Nav = ({ handleYearChange, isVisible, curYearIndex }: Props) => {
             : "absolute top-0 left-1/2 transform -translate-x-1/2 z-5 bg-neutral-900/20"
         }`}
       >
-        <div className="w-full flex justify-evenly">
+        <div className="w-full flex flex-wrap justify-center gap-1 md:justify-evenly md:gap-0">
           <span
             className="hidden sm:flex items-center sm:text-md md:text-lg p-1 px-2 md:hover:text-white md:hover:bg-red-500/30 md:hover:rounded-md"
             onClick={handlePrev}
