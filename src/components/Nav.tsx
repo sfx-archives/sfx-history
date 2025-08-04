@@ -16,7 +16,7 @@ const Nav = ({ handleYearChange, isVisible, curYearIndex }: Props) => {
   };
 
   return (
-    <div className="relative w-screen h-full mt-7 mb-10 md:mb-0">
+    <div className="relative w-screen h-full mt-7 mb-13 sm:mb-10 md:mb-2">
       <div
         className={`w-5/6 md:w-2/3 cursor-pointer p-1 rounded-full shadow-lg text-gray-100 font-merri ${
           !isVisible
