@@ -62,10 +62,20 @@ const Hero = ({ handleViewChange }: Props): JSX.Element => {
             return false;
           }}
         >
-          St Francis Xavier Parish 天主教聖方濟堂
+          St Francis Xavier Parish
+        </a>
+        <br></br><a
+          className="text-5xl font-tage text-center hover:cursor-pointer transition-all duration-300 hover:-translate-y-1 hover:drop-shadow-[0_8px_16px_rgba(0,0,0,0.4)]"
+          href="#"
+          onClick={() => {
+            openSideWindow("https://sfx.rcav.org/");
+            return false;
+          }}
+        >
+          天主教聖方濟堂
         </a>
         <span className="text-2xl font-merri italic mt-4 p-1 px-4 rounded-full bg-orange-200/20 animate-expand">
-          History
+          History 大事回顧
         </span>
       </div>
     </InView>
