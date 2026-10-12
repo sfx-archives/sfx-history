@@ -62,7 +62,7 @@ const Hero = ({ handleViewChange }: Props): JSX.Element => {
             return false;
           }}
         >
-          St Francis Xavier Parish
+          St Francis Xavier Parish 天主教聖方濟堂
         </a>
         <span className="text-2xl font-merri italic mt-4 p-1 px-4 rounded-full bg-orange-200/20 animate-expand">
           History
